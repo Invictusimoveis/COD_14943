@@ -1,0 +1,45 @@
+#: locale=pt
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_EC7621A0_FAE2_A687_41E5_40FE99006972.toolTip = Banheiro
+HotspotPanoramaOverlayArea_EDE5FD6C_FAE2_FF9F_41B8_70BAFF107603.toolTip = Quarto 1
+HotspotPanoramaOverlayArea_E2016CE9_FAE3_FE87_41CC_34B3228F495A.toolTip = Quarto 2
+HotspotPanoramaOverlayArea_E2C621F7_FAE3_A68A_41E9_D9DF2FE8D45B.toolTip = Suíte 1
+HotspotPanoramaOverlayArea_EF39390F_FAE3_6799_41E5_B30FFC3B561E.toolTip = Suíte 2
+HotspotPanoramaOverlayArea_EE0C347F_FAEE_AE73_41AA_F4D6DF1794BD.toolTip = Suíte 2
+
+## Media
+
+### Title
+panorama_F01B69F5_FAA5_6651_41ED_7CA9F9A912C8.label = Acesso aos quartos
+panorama_F018D8AF_FAA2_A6F0_41E0_9779FD0A847D.label = Banheiro
+panorama_F01B3B4A_FAA5_DBB3_41B2_0AC4EDE79566.label = Churrasqueira
+panorama_F01BF2D2_FAA5_AA53_41EC_49A915D2529E.label = Corredor
+panorama_F01830E0_FAA5_666F_41D0_9213203F1E24.label = Corredor Quartos_
+panorama_F0185432_FAA2_ADD3_41EA_E98270F62AF8.label = Corredor acesso Suíte
+panorama_F0187CC9_FAA5_5EB0_41E6_5A621574BAA7.label = Corredor quartos
+panorama_F01BEA9C_FAA5_BAD7_41CB_6EE4103111A2.label = Cozinha
+panorama_F01B1FA7_FAA5_DAF1_41E2_CE5973D601A9.label = Garagem
+panorama_F0186663_FAA5_AA71_41ED_4511DCBF81FE.label = Lavabo
+panorama_F01B9EB8_FAA5_BADF_41DC_D7E397746377.label = Lavanderia
+panorama_F0188B88_FAA2_BABF_41C6_ED736B8C7764.label = Quarto 1
+panorama_F018B18E_FAA5_66B3_41DF_5B0DFF54347C.label = Quarto 2
+panorama_F018D5B7_FAA5_6ED1_41EE_24D660CD079E.label = Quarto 2_sacada
+panorama_F01BF71F_FAA5_ABD1_41C6_31467274D6E8.label = Quintal
+panorama_F0189E10_FAA5_5DAF_41ED_026C418A7514.label = Sala
+panorama_F01B9239_FAA5_A5D1_41EC_3C1344C31C79.label = Sala de Jantar
+panorama_F01814EA_FAA5_6E73_41ED_D8DF253C401E.label = Suíte 1
+panorama_F018D914_FAA5_67D7_41ED_40FD85630D91.label = Suíte 1_hidro
+panorama_F018CD51_FAA5_7E51_41E2_2150246B9A42.label = Suíte 1_sacada
+panorama_EEAB92FD_FAE7_AA69_41B9_08253E94C9EE.label = Suíte 2
+panorama_F69DEDEC_FAA2_DE77_41E1_8695F00C85C4.label = Suíte 2_banheiro
+panorama_F01FB330_FAA2_ABEF_41DD_BEDF31C76890.label = Suíte 2_sacada
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Riachuelo_14943
